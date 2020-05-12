@@ -29,12 +29,12 @@
     </Container>
 </section>
 <section class="portfolio-block skills">
-    <div class="container">
+    <Container>
         <div class="heading">
             <h2>MY Skills</h2>
         </div>
-        <div class="row">
-            <div class="col-md-4">
+        <Row>
+            <Col md="4">
                 <div class="card special-skill-item border-0">
                     <div class="card-header bg-transparent border-0"><i class="icon ion-social-javascript"></i></div>
                     <div class="card-body">
@@ -42,8 +42,8 @@
                         <p class="card-text">I do JavaScript around 2 years. I am capable of coding imperative/declarative code, object-oriented code and I know ES6 as well.</p>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </Col>
+            <Col md="4">
                 <div class="card special-skill-item border-0">
                     <div class="card-header bg-transparent border-0"><i class="icon ion-social-nodejs"></i></div>
                     <div class="card-body">
@@ -51,8 +51,8 @@
                         <p class="card-text">As I sayed before, I am full-stack developer so I have to know back-end too. For back-end I am used to use Node.js (runtime) instead of PHP.</p>
                     </div>
                 </div>
-            </div>
-            <div class="col-md-4">
+            </Col>
+            <Col md="4">
                 <div class="card special-skill-item border-0">
                     <div class="card-header bg-transparent border-0"><i class="icon ion-social-html5"></i></div>
                     <div class="card-body">
@@ -60,17 +60,17 @@
                         <p class="card-text">For front-end I use frameworks, my favorite are Svelte (compiler, competitor to React/Vue) and Sapper (SSG/SSR framework, competitor to Next/Nuxt/Angular).</p>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
+            </Col>
+        </Row>
+    </Container>
 </section>
 <section class="portfolio-block skills">
-    <div class="container">
+    <Container>
         <div class="heading">
             <h2>Technologies I do</h2>
         </div>
-        <div class="row">
-            <div class="col">
+        <Row>
+            <Col>
                 <div class="card">
                     <div class="card-body">
                         <h4 class="card-title">Front-end</h4>
@@ -83,8 +83,8 @@
                         </ul>
                     </div>
                 </div>
-            </div>
-            <div class="col">
+            </Col>
+            <Col>
                 <div class="card">
                     <div class="card-body">
                         <h4 class="card-title">Back-end</h4>
@@ -97,8 +97,8 @@
                         </ul>
                     </div>
                 </div>
-            </div>
-            <div class="col">
+            </Col>
+            <Col>
                 <div class="card">
                     <div class="card-body">
                         <h4 class="card-title">Other</h4>
@@ -111,17 +111,17 @@
                         </ul>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
+            </Col>
+        </Row>
+    </Container>
 </section>
 <section class="bg-light portfolio-block skills">
-    <div class="container">
+    <Container>
         <div class="heading">
             <h2>Tools I work in</h2>
         </div>
-        <div class="row">
-            <div class="col">
+        <Row>
+            <Col>
                 <div class="card">
                     <div class="card-body">
                         <h4 class="card-title">IDEs/Text editors</h4>
@@ -134,7 +134,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
+            </Col>
+        </Row>
+    </Container>
 </section>

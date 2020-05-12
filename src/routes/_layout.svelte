@@ -8,6 +8,7 @@
 <style>
 	main {
 		padding-top: 6rem;
+		min-height: 100vh;
 	}
 </style>
 
